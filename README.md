@@ -1,7 +1,3 @@
-# ronrob-lu
-
-A creative project by **ronrob-lu**.
-
 ## Overview
 
 This project features characters that simply stand there and wink. Sometimes, the simplest actions make the biggest impression.
