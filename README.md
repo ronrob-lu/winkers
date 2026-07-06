@@ -15,6 +15,7 @@ Or visit directly: https://www.youtube.com/shorts/6tHx67OpFn8
 - Characters that stand still
 - Occasional winking
 - Minimalist design philosophy
+- Add your own NPC characters by putting in textures (eg from multitud repo)
 
 ## Credits
 
