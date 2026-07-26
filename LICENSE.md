@@ -1,4 +1,4 @@
-# MIT Licence
+# MIT License
 
 Copyright (c) 2026 ronrob-lu
 
@@ -24,7 +24,7 @@ SOFTWARE.
 
 **Author**: ronrob-lu  
 **Written by**: Google Jules
-**Assets Licence** (Creative Commons Zero, CC0)
+**Assets License** (Creative Commons Zero, CC0)
 	http://creativecommons.org/publicdomain/zero/1.0/
 
 	You can use this content for personal, educational, and commercial purposes.
