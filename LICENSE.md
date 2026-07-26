@@ -25,6 +25,5 @@ SOFTWARE.
 **Author**: ronrob-lu  
 **Written by**: Google Jules
 **Assets License** (Creative Commons Zero, CC0)
-	http://creativecommons.org/publicdomain/zero/1.0/
+http://creativecommons.org/publicdomain/zero/1.0/
 
-	You can use this content for personal, educational, and commercial purposes.
